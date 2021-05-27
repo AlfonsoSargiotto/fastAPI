@@ -1,0 +1,2 @@
+# fastAPI
+Mini FastAPI project
